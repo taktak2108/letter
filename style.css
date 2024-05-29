@@ -74,7 +74,7 @@ body{
   font-size: 10px;
 }
 .heart {
-  position: relative;
+  position: absolute;
   top: 80%;
   left: 50%;
   width: 15px;
@@ -89,7 +89,7 @@ body{
 .heart:before, 
 .heart:after {
   content: "";
-  position: relative;
+  position: absolute;
   width: 15px;
   height: 15px;
   background-color: var(--heart-color);
