@@ -75,7 +75,7 @@ body{
 }
 .heart {
   position: relative;
-  top: 100%;
+  top: 80%;
   left: 50%;
   width: 15px;
   height: 15px;
